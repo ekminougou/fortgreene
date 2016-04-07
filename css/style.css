@@ -1,0 +1,65 @@
+h1{
+    color:green;
+    text-align: left;
+    font-size: 18;
+    font-family: 'Montserrat', sans-serif;
+    }
+h2{
+    color:green;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+h3{
+    color:grey;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+p{
+    color:grey;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+a{
+    color:grey;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    }
+blockquote{
+    color:grey;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    }
+
+div.container{
+	width: 1200px;
+	margin: auto;
+	padding: 20px;
+	}
+
+*/photo grid*/
+
+		.photo {
+			position: relative;
+		}
+		.title{
+			position: absolute;
+			bottom:20px;
+			left:0px;
+			text-align: center;
+			right:0px;
+			font-size:24px;
+			font-weight: bold;
+			color:#979797;
+		}
+		.photos {
+			margin:auto;
+			font-size:0px;
+		}
